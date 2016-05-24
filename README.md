@@ -366,6 +366,11 @@ Non-current HAProxy versions
 Be aware that HAProxy below version 1.4 does not support many of the 
 options of haproxyctl.
 
+Important Mention
+----------------------
+
+I have copied the repository from flores and am making minor modifications (according to our project need)
+
 
 License
 -----------------
